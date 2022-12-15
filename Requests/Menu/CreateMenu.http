@@ -1,0 +1,22 @@
+@host=http://localhost:5110
+
+@hostId = asd
+POST {{host}}/hosts/{{hostId}}/menus
+Content-Type: application/json
+
+{
+   "name" : "test",
+   "description" : "Long text",
+   "sections" : [
+    {
+        "name" : "test",
+        "description" : "Long text",
+        "items" : [
+            {
+                "name" : "test",
+                "description" : "Long text"
+            }
+        ]
+    }
+   ]
+}

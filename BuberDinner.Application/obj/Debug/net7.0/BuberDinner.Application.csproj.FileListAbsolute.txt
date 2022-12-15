@@ -1,0 +1,15 @@
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+H:\Programming_Courses\CleanArchitecture_DDD\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
